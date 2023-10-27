@@ -12,7 +12,7 @@ export const AboutContent = () => {
         <div className="about">
             <div className="left">
                 <h1>¿Quién soy?</h1>
-                <p>iHola! Soy Gustavo. Entre las tecnologías que domino estan React, Ruby y JavaScript. Tambien disfruto mucho de los misterios y de aprender nuevas cosas.</p>
+                <p>iHola! Soy Gustavo. Entre las tecnologías que domino estan React, Python y JavaScript. Desarrollar páginas web es un de mis pasatiempos, pero mi principal afición es la ciencia de datos.</p>
                 <Link to="/contact">
                     <button className="btn">Contactar</button>
                 </Link>

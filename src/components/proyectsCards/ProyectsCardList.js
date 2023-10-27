@@ -8,11 +8,11 @@ export const PriceCardList = () => {
     <div className="pricing">
       <div className="card-container">
         <div className="card">
-          <h3> Proyecto 1</h3>
+          <h3> Proyecto 1 </h3>
           <span className="bar"></span>
           <p className=""> Web Page Barberia </p>
-          <p className=""> - Html, css - </p>
-          <p className=""> - Featured - </p>
+          <p className=""> - Html y Css - </p>
+          <p className=""> - GitHub - </p>
           <p className=""> - Responsive Design - </p>
 
           <Link to="https://github.com/23r0-coder/ParcialPrograII" className="btn">
@@ -25,7 +25,7 @@ export const PriceCardList = () => {
           <span className="bar"></span>
           <p className=""> Remote Control Car </p>
           <p className=""> - Arduino - </p>
-          <p className=""> - Featured - </p>
+          <p className=""> - Github - </p>
           <p className=""> - Responsive Design - </p>
 
           <Link to="https://github.com/GustavoAZepeda/ArduinoCarBluetooth" className="btn">
@@ -38,7 +38,7 @@ export const PriceCardList = () => {
           <span className="bar"></span>
           <p className=""> Task Manager </p>
           <p className=""> - C# - </p>
-          <p className=""> - Featured - </p>
+          <p className=""> - GitHub - </p>
           <p className=""> - Responsive Design - </p>
 
           <Link to="https://github.com/23r0-coder/TaskManager" className="btn">
