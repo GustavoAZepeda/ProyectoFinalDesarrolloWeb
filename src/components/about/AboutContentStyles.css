@@ -1,5 +1,4 @@
 .about {
-
     width: 100%;
     margin: 3rem 0;
     display: flex;
@@ -7,7 +6,6 @@
     justify-content: center;
     flex-wrap: wrap;
     height: 100%;
-
 }
 
 .about .left{
@@ -15,7 +13,6 @@
     margin: auto;
     padding: 1rem;
     max-width: 350px;
-
 }
 
 
@@ -25,7 +22,6 @@
 
 
 .about .right{
-
     max-width: 700px;
 }
 
@@ -41,7 +37,6 @@
      max-width: 90%;
      border: 1px solid #333;
      border-radius: 160px;
-
 }
 
 .right .top {
